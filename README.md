@@ -50,3 +50,10 @@ php artisan scribe:generate
 php artisan serve
 
 Probar en 127.0.0.1:8000/docs
+
+Credencial del seed para administrador
+correo: admin@@ejemplo.cl
+pass: 123
+
+Para peticiones autentificadas colocar token en Authorization
+Algunas peticiones solo aceptan Token de administrador
