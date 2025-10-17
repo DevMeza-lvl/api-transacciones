@@ -21,7 +21,10 @@ cd api-transacciones
 composer install
 
 # 3) Variables de entorno
+Para linux/MacOs
 cp .env.example .env
+Para Windows
+copy .env.example .env
 php artisan key:generate
 
 # 4) Configurar base de datos
