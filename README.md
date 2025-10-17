@@ -14,8 +14,8 @@ API de ejemplo para gestión de usuarios y transacciones, con autenticación por
 
 ```bash
 # 1) Clonar
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
-cd <tu-repo>
+git clone https://github.com/DevMeza-lvl/api-transacciones.git
+cd api-transacciones
 
 # 2) Dependencias
 composer install
