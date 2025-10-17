@@ -48,3 +48,5 @@ php artisan scribe:generate
 
 # 8) Levantar el servidor
 php artisan serve
+
+Probar en 127.0.0.1:8000/docs
